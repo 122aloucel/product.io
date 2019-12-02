@@ -1,0 +1,14 @@
+.logo {
+  height:50px;
+}
+.headtext {
+  text-align: right;
+}
+body {
+  font-family: sans-serif;
+}
+table {
+  width: 100vw;
+  background-color: #5c5c5c;
+  height: 100px;
+}
