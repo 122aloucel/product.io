@@ -1,14 +1,41 @@
 .logo {
   height:50px;
 }
-.headtext {
-  text-align: right;
+.lines {
+  height: 50px;
+  padding-right: 30px;
 }
 body {
   font-family: sans-serif;
 }
-table {
+.top {
   width: 100vw;
   background-color: #5c5c5c;
   height: 100px;
+}
+.whole-body {
+  background-color: #9c9c9c
+}
+.wwwthekidfrombrooklyncom {
+  width: 1890px;
+}
+.right-image {
+  height: 600px;
+}
+.table-one {
+width: 100vw;
+}
+.text-one {
+  text-align: center;
+  font-size: 25px;
+  font-family: times;
+}
+.table-two {
+  width: 100vw;
+}
+.text-two {
+  
+}
+.left-image {
+  height: 600px;
 }
