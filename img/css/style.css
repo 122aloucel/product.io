@@ -1,0 +1,92 @@
+.logo {
+  height:50px;
+}
+.lines {
+  height: 50px;
+  padding-right: 30px;
+}
+body {
+  font-family: sans-serif;
+}
+.top {
+  width: 98vw;
+  background-color: #5c5c5c;
+  height: 100px;
+}
+.whole-body {
+  background-color: #9c9c9c
+}
+.wwwthekidfrombrooklyncom {
+  width: 1890px;
+}
+.right-image {
+  height: 600px;
+}
+.table-one {
+width: 98vw;
+}
+.text-one {
+  text-align: center;
+  font-size: 25px;
+  font-family: times;
+}
+.table-two {
+  width: 98vw;
+}
+.text-two {
+  text-align: right;
+  font-size: 25px;
+  font-family: times;
+}
+.left-image {
+  height: 600px;
+}
+a {
+  text-align: left;
+  font-size: 40px;
+  font-family: 'montserrat', sans-serif;
+}
+.keepitleft {
+  padding-right: 1000px;
+}
+.headsetonly {
+  width: 700px;
+}
+#headsetonly {
+  font-size: 70px;
+  font-family: times;
+}
+.headsetandcontroller {
+  width: 500px;
+}
+#headsetandcontroller {
+  font-size: 70px;
+  font-family: times;
+}
+.basic {
+  width: 700px;
+}
+#basic {
+  font-size: 70px;
+  font-family: times;
+}
+.buisness {
+  width: 700px;
+}
+#buisness {
+  font-size: 70px;
+  font-family: times;
+}
+
+a:link {
+  color: #242424
+}
+a:hover {
+  color: #a3a3a3
+}
+a:visited {
+  color: #363636;
+}
+a:active {
+  color: #ffffff
+}
